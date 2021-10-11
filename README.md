@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ramon Padilla 
-- 👀 I’m interested in Web Development and web Desing
-- 🌱 I’m currently learning Reactjs
+- 👀 I’m interested in Web Development and Mobile Development
+- 🌱 I’m currently learning Mobile Development
 - 💞️ I’m looking to collaborate on anyone who needs help
 - 📫 How to reach me ramonpjls@gmail.com
 
