@@ -1,4 +1,4 @@
-Hi 👋 My name is Ramon Padillax
+Hi 👋 My name is Ramon Padilla
 ===============================
 
 Web developer
