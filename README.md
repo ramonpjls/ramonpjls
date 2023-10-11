@@ -1,10 +1,10 @@
 Hi 👋 My name is Ramon Padillax
 ===============================
 
-Frontend developer
+Web developer
 ------------------
 
-Passionate about learning new things every day. always look for new challenges. looking for web development and the UX design.
+Passion for continuous learning and a constant search for fresh challenges drive my interest in web development and UX design. I also have a strong penchant for actively engaging with local communities focusing on development-related topics.
 
 *   🌍  I'm based in Santo Domingo
 *   ✉️  You can contact me at [ramonpjls@gmail.com](mailto:ramonpjls@gmail.com) <p align="left">
