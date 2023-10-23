@@ -4,7 +4,7 @@ Hi 👋 My name is Ramon Padilla
 Web developer
 ------------------
 
-Passion for continuous learning and a constant search for fresh challenges drive my interest in web development and UX design. I also have a strong penchant for actively engaging with local communities focusing on development-related topics.
+Web developer with a strong passion for creating exceptional user interfaces that prioritize a seamless and engaging experience. Proficient in a wide range of web technologies, I am dedicated to pixel-perfect design and responsive layouts, always staying current with the latest front-end trends. Eager to collaborate with innovative teams and individuals to craft meaningful web experiences.
 
 *   🌍  I'm based in Santo Domingo
 *   ✉️  You can contact me at [ramonpjls@gmail.com](mailto:ramonpjls@gmail.com) <p align="left">
